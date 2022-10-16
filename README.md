@@ -16,5 +16,6 @@
   - Database: SQL
 
 
-
-![Fav Meme](https://pbs.twimg.com/media/EbN1_C2XQAA6x4a.jpg)
+#### Term Project - Employee Management System
+- The primary goal of our project was to create an employee management system that facilitates various types of work in managing an employee record. An employee can enter all of their pertinent information in this system, and an administrator can typically sort, manage, and assign each employee user the appropriate accesses. The website assists in discovering an employee's entire information and comprehensive record inside the company, which primarily aids the HR staff in gathering all data under one roof and speeds up onboarding.
+- More details on https://thotave.github.io/GVSU-CIS641-Vikings/
