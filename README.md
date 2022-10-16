@@ -1,17 +1,25 @@
-# CIS641-HW2-paturi
-
+# CIS641-HW3-Paturi
 ## Vamsi Paturi
+
+### Education Details
+* Pursuing Masters in Applied Computer Science
+* Bachelor of Technology in Food Processing Technology (Year: 2020)
+
+### Hobbies
 * I love playing online multiplayer games
 * I am interested in learning new things, try to cook new dishes during free time.
 * I am very interested in memes and would spend all day scrolling them.
 
 ### Technical Background
- - I completed my bachelor's degree in Food processing technology. After working as a food analyst for six months, I quit my job and began preparing for an IT job. I was hired as a web developer by a small startup in Hyderabad, where I used to only handle the content addition part rather than direct coding. I left the job after about nine months and began preparing for my master's after which I landed up here at GVSU.
- - I have learnt  few Technical skills when i was working in my previous project
   - FrontEnd: HTML, CSS, JAVASCRIPT, REACT NATIVE
   - Languages: Python, C
   - Database: SQL
 
 
 
-![Fav Meme](https://pbs.twimg.com/media/EbN1_C2XQAA6x4a.jpg)
+  #### Team Github.io page :
+  
+
+  #### Term Project - Employee Management System
+  - The primary goal of our project was to create an employee management system that facilitates various types of work in managing an employee record. An employee can enter all of their pertinent information in this system, and an administrator can typically sort, manage, and assign each employee user the appropriate accesses. The website assists in discovering an employee's entire information and comprehensive record inside the company, which primarily aids the HR staff in gathering all data under one roof and speeds up onboarding.
+ - We are builduing this project using Javascript as front end 
